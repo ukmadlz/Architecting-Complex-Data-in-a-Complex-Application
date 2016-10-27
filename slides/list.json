@@ -1,0 +1,73 @@
+[
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/WOW-page-001.jpg"
+        }
+    },
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    {
+        "filename": "author-2.md",
+        "attr": {
+            "id": "author 2.0"
+        }
+    },
+    [
+        "where-i-work.html",
+        "what-i-work-on.md"
+    ],
+    "a-bit-of-backstory.md",
+    "blue-unicorn.md",
+    "build.html",
+    "these-nerds.html",
+    "a-project-named.md",
+    "ambrosia.md",
+    "not-quite-food-of-the-gods.md",
+    "nutrition-as-a-service.md",
+    "basically.md",
+    "maston.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/a-beautiful-mind.jpg"
+        }
+    },
+    "its-a-graph.md",
+    "its-a-model.md",
+    "logical-model.md",
+    "just-add-data.md",
+    "csv.html",
+    "datawarehouse.md",
+    "dw-architecture.html",
+    "write-permissions-denied.md",
+    "add-a-logial-api.md",
+    "api.md",
+    "api-architecture.html",
+    "graphs-are-expensive.md",
+    "add-caching.md",
+    "add-gateway.md",
+    "cache-architecture.html",
+    "user-management.md",
+    "user-architecture.html",
+    "tokenised-access.md",
+    "token-architecture.html",
+    "george.md",
+    "and-now-for-how-it-stands.md",
+    "architecture.md",
+    "this-isnt-the-end.md",
+    "elk.md",
+    "read-only-gremlin.md",
+    "next-step-skynet.md",
+    "questions.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/WOW-page-002.jpg"
+        }
+    }
+]
